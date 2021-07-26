@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Information</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_author_title"></string>
+    <string name="nav_version_number"></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_help">Help</string>
+
+    <string name="menu_addMovies">Add Movies</string>
+    <string name="menu_movieList">Show Movies</string>
+    <string name="menu_favorite">favorite movie</string>
+</resources>
